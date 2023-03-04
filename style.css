@@ -71,7 +71,7 @@ li{
     padding: 0px;
 }
 
-table{
+.status table{
     width: 100%;
 }
 
@@ -115,8 +115,8 @@ th{
     /*counter-reset: section;*/
     list-style-type: none;
 }
-/*
-.indice li:before {
-    counter-increment: section;
-    content: counters(section, ".") ". "; Link " counters(section, ".") " ";
-}*/
+
+/*NAVEGACION*/
+nav table{
+
+}
